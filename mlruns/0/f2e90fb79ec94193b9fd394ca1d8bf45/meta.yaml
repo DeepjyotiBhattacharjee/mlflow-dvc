@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/deepjyotibhattacharjee/Developer/mlflow-dvc/mlruns/0/f2e90fb79ec94193b9fd394ca1d8bf45/artifacts
+end_time: 1709045727868
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f2e90fb79ec94193b9fd394ca1d8bf45
+run_name: nebulous-croc-374
+run_uuid: f2e90fb79ec94193b9fd394ca1d8bf45
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709045727855
+status: 3
+tags: []
+user_id: deepjyotibhattacharjee

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/deepjyotibhattacharjee/Developer/mlflow-dvc/mlruns/0/02b9891aa4c8427b9ac929f85b92988e/artifacts
+end_time: 1709045846828
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 02b9891aa4c8427b9ac929f85b92988e
+run_name: handsome-smelt-263
+run_uuid: 02b9891aa4c8427b9ac929f85b92988e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709045846816
+status: 3
+tags: []
+user_id: deepjyotibhattacharjee

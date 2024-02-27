@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/deepjyotibhattacharjee/Developer/mlflow-dvc/mlruns/0/8b2f6ddbd5b44bdfa8b17ee6c42a35af/artifacts
+end_time: 1709045881321
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8b2f6ddbd5b44bdfa8b17ee6c42a35af
+run_name: popular-sloth-735
+run_uuid: 8b2f6ddbd5b44bdfa8b17ee6c42a35af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709045881307
+status: 3
+tags: []
+user_id: deepjyotibhattacharjee
