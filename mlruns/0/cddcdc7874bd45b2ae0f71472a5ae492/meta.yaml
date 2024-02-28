@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/deepjyotibhattacharjee/Developer/mlflow-dvc/mlruns/0/cddcdc7874bd45b2ae0f71472a5ae492/artifacts
+end_time: 1709092286104
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cddcdc7874bd45b2ae0f71472a5ae492
+run_name: gifted-pug-558
+run_uuid: cddcdc7874bd45b2ae0f71472a5ae492
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709092286091
+status: 3
+tags: []
+user_id: deepjyotibhattacharjee
